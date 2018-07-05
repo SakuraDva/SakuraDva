@@ -78,5 +78,6 @@ theme: hexo-theme-sagiri
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:git
-  repo:https://github.com/JiangXing517054679/JiangXing517054679.github.io.git
+  type: git
+  repo: git@github.com:JiangXing517054679/JiangXing517054679.github.io.git
+  branch: hexo
